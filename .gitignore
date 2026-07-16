@@ -1,0 +1,82 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ==========================
+# Virtual Environment
+# ==========================
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# Streamlit
+# ==========================
+.streamlit/secrets.toml
+
+# ==========================
+# Model Files
+# ==========================
+*.keras
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# ==========================
+# Large Datasets
+# ==========================
+dataset/
+datasets/
+data/
+*.csv
+*.zip
+*.rar
+*.7z
+
+# Keep README if present
+!README.md
+
+# ==========================
+# Images (optional)
+# ==========================
+*.png
+*.jpg
+*.jpeg
+
+# Uncomment below if you WANT to keep sample images
+#!sample.jpg
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.bak
