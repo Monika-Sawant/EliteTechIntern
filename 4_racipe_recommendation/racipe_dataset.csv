@@ -1,0 +1,201 @@
+Recipe,Cuisine,Diet,MainIngredient,CookingTime,Difficulty
+Paneer Butter Masala,Indian,Veg,Paneer,30,Medium
+Chicken Tikka Masala,Indian,Non-Veg,Chicken,40,Medium
+Chana Masala,Indian,Veg,Chickpeas,25,Easy
+Aloo Gobi,Indian,Veg,Potato,20,Easy
+Dal Makhani,Indian,Veg,Lentils,60,Medium
+Chicken Biryani,Indian,Non-Veg,Chicken,50,Hard
+Palak Paneer,Indian,Veg,Paneer,30,Medium
+Butter Chicken,Indian,Non-Veg,Chicken,45,Medium
+Vegetable Korma,Indian,Veg,Mixed Vegetables,35,Medium
+Chicken Korma,Indian,Non-Veg,Chicken,40,Medium
+Rogan Josh,Indian,Non-Veg,Beef,90,Hard
+Masala Dosa,Indian,Veg,Rice,40,Hard
+Samosa,Indian,Veg,Potato,45,Medium
+Fish Curry,Indian,Non-Veg,Fish,30,Medium
+Prawn Masala,Indian,Non-Veg,Shrimp,25,Medium
+Matar Paneer,Indian,Veg,Paneer,25,Easy
+Baingan Bharta,Indian,Veg,Eggplant,35,Medium
+Jeera Rice,Indian,Veg,Rice,15,Easy
+Rajma Chawal,Indian,Veg,Beans,50,Medium
+Tandoori Chicken,Indian,Non-Veg,Chicken,45,Medium
+Kadai Paneer,Indian,Veg,Paneer,30,Medium
+Bhindi Masala,Indian,Veg,Okra,20,Easy
+Chicken Chettinad,Indian,Non-Veg,Chicken,45,Hard
+Malai Kofta,Indian,Veg,Potato,50,Hard
+Kashmiri Dum Aloo,Indian,Veg,Potato,40,Medium
+Chicken Jalfrezi,Indian,Non-Veg,Chicken,30,Medium
+Methi Matar Malai,Indian,Veg,Peas,30,Medium
+Egg Curry,Indian,Non-Veg,Egg,25,Easy
+Lemon Rice,Indian,Veg,Rice,15,Easy
+Shahi Paneer,Indian,Veg,Paneer,35,Medium
+Dhokla,Indian,Veg,Gram Flour,25,Medium
+Pav Bhaji,Indian,Veg,Mixed Vegetables,40,Medium
+Chole Bhature,Indian,Veg,Chickpeas,60,Hard
+Paneer Tikka,Indian,Veg,Paneer,25,Easy
+Chicken Vindaloo,Indian,Non-Veg,Chicken,50,Hard
+Keema Matar,Indian,Non-Veg,Beef,35,Medium
+Gobi Manchurian,Indian,Veg,Cauliflower,35,Medium
+Dal Tadka,Indian,Veg,Lentils,20,Easy
+Aloo Paratha,Indian,Veg,Potato,30,Medium
+Mushroom Masala,Indian,Veg,Mushroom,25,Easy
+Margherita Pizza,Italian,Veg,Tomato,20,Easy
+Spaghetti Bolognese,Italian,Non-Veg,Beef,45,Medium
+Fettuccine Alfredo,Italian,Veg,Pasta,20,Easy
+Lasagna,Italian,Non-Veg,Beef,60,Hard
+Mushroom Risotto,Italian,Veg,Mushroom,40,Medium
+Penne Arrabbiata,Italian,Veg,Tomato,20,Easy
+Caprese Salad,Italian,Veg,Tomato,10,Easy
+Chicken Parmigiana,Italian,Non-Veg,Chicken,45,Medium
+Pesto Pasta,Italian,Veg,Pasta,15,Easy
+Potato Gnocchi,Italian,Veg,Potato,40,Hard
+Spaghetti Carbonara,Italian,Non-Veg,Egg,20,Medium
+Minestrone Soup,Italian,Veg,Mixed Vegetables,35,Easy
+Bruschetta,Italian,Veg,Tomato,15,Easy
+Eggplant Parmesan,Italian,Veg,Eggplant,50,Medium
+Shrimp Scampi,Italian,Non-Veg,Shrimp,20,Easy
+Tuscan Chicken,Italian,Non-Veg,Chicken,30,Medium
+Spinach Ricotta Ravioli,Italian,Veg,Pasta,45,Hard
+Spaghetti Meatballs,Italian,Non-Veg,Beef,40,Medium
+Seafood Marinara,Italian,Non-Veg,Shrimp,35,Medium
+Chicken Piccata,Italian,Non-Veg,Chicken,25,Medium
+Cacio e Pepe,Italian,Veg,Pasta,15,Easy
+Veggie Calzone,Italian,Veg,Spinach,30,Medium
+Frittata,Italian,Veg,Egg,20,Easy
+Pasta Primavera,Italian,Veg,Mixed Vegetables,25,Easy
+Polenta,Italian,Veg,Cornmeal,30,Easy
+Arancini,Italian,Veg,Rice,45,Hard
+Chicken Marsala,Italian,Non-Veg,Chicken,35,Medium
+Ribollita,Italian,Veg,Beans,50,Medium
+Panzanella Salad,Italian,Veg,Tomato,15,Easy
+Osso Buco,Italian,Non-Veg,Beef,90,Hard
+Cioppino,Italian,Non-Veg,Fish,45,Hard
+Gnocchi Gorgonzola,Italian,Veg,Potato,30,Medium
+Spinach Ricotta Cannelloni,Italian,Veg,Pasta,50,Medium
+Tomato Basil Soup,Italian,Veg,Tomato,25,Easy
+Baked Ziti,Italian,Veg,Pasta,35,Easy
+Chicken Saltimbocca,Italian,Non-Veg,Chicken,30,Hard
+Truffle Mushroom Pasta,Italian,Veg,Mushroom,25,Medium
+Beef Ragu,Italian,Non-Veg,Beef,75,Hard
+Clam Linguine,Italian,Non-Veg,Clams,25,Medium
+Minestrone with Pasta,Italian,Veg,Pasta,30,Easy
+Beef Tacos,Mexican,Non-Veg,Beef,20,Easy
+Chicken Quesadilla,Mexican,Non-Veg,Chicken,15,Easy
+Guacamole,Mexican,Veg,Avocado,10,Easy
+Beef Enchiladas,Mexican,Non-Veg,Beef,40,Medium
+Chicken Burritos,Mexican,Non-Veg,Chicken,25,Medium
+Chicken Fajitas,Mexican,Non-Veg,Chicken,25,Easy
+Chili con Carne,Mexican,Non-Veg,Beef,50,Medium
+Loaded Nachos,Mexican,Veg,Beans,15,Easy
+Queso Fundido,Mexican,Veg,Cheese,15,Easy
+Chilaquiles,Mexican,Veg,Tortilla,20,Easy
+Huevos Rancheros,Mexican,Veg,Egg,15,Easy
+Pozole,Mexican,Non-Veg,Pork,75,Hard
+Pork Carnitas,Mexican,Non-Veg,Pork,90,Hard
+Elote,Mexican,Veg,Corn,15,Easy
+Chicken Tortilla Soup,Mexican,Non-Veg,Chicken,30,Easy
+Beef Barbacoa,Mexican,Non-Veg,Beef,90,Hard
+Pork Tamales,Mexican,Non-Veg,Pork,90,Hard
+Fish Tacos,Mexican,Non-Veg,Fish,25,Medium
+Shrimp Ceviche,Mexican,Non-Veg,Shrimp,20,Easy
+Chicken Taquitos,Mexican,Non-Veg,Chicken,30,Medium
+Black Bean Soup,Mexican,Veg,Beans,25,Easy
+Chicken Chimichangas,Mexican,Non-Veg,Chicken,35,Medium
+Stuffed Peppers,Mexican,Veg,Rice,45,Medium
+Pork Green Chili,Mexican,Non-Veg,Pork,60,Medium
+Mole Poblano,Mexican,Non-Veg,Chicken,90,Hard
+Taco Salad,Mexican,Veg,Beans,15,Easy
+Flautas,Mexican,Non-Veg,Chicken,30,Medium
+Mexican Rice,Mexican,Veg,Rice,25,Easy
+Refried Beans,Mexican,Veg,Beans,20,Easy
+Carne Asada,Mexican,Non-Veg,Beef,40,Medium
+Chicken Tinga,Mexican,Non-Veg,Chicken,30,Medium
+Camarones al Ajo,Mexican,Non-Veg,Shrimp,20,Easy
+Birria Tacos,Mexican,Non-Veg,Beef,90,Hard
+Rajas con Crema,Mexican,Veg,Peppers,25,Easy
+Cheese Queso Dip,Mexican,Veg,Cheese,10,Easy
+Taco Soup,Mexican,Non-Veg,Beef,25,Easy
+Chicken Enchiladas Verdes,Mexican,Non-Veg,Chicken,40,Medium
+Beef Empanadas,Mexican,Non-Veg,Beef,45,Hard
+Chalupas,Mexican,Veg,Beans,30,Medium
+Tostadas,Mexican,Veg,Beans,15,Easy
+Kung Pao Chicken,Chinese,Non-Veg,Chicken,30,Medium
+Sweet and Sour Pork,Chinese,Non-Veg,Pork,35,Medium
+Dim Sum,Chinese,Non-Veg,Pork,60,Hard
+Peking Duck,Chinese,Non-Veg,Duck,120,Hard
+Chicken Chow Mein,Chinese,Non-Veg,Noodles,20,Easy
+Egg Fried Rice,Chinese,Veg,Rice,15,Easy
+Spring Rolls,Chinese,Veg,Cabbage,30,Medium
+Hot and Sour Soup,Chinese,Veg,Tofu,25,Easy
+Wonton Soup,Chinese,Non-Veg,Pork,40,Medium
+Mapo Tofu,Chinese,Veg,Tofu,25,Medium
+Orange Chicken,Chinese,Non-Veg,Chicken,35,Medium
+Beef and Broccoli,Chinese,Non-Veg,Beef,20,Easy
+General Tsos Chicken,Chinese,Non-Veg,Chicken,35,Medium
+Szechuan Beef,Chinese,Non-Veg,Beef,30,Medium
+Egg Drop Soup,Chinese,Veg,Egg,15,Easy
+Ma Po Eggplant,Chinese,Veg,Eggplant,25,Medium
+Pork Dumplings,Chinese,Non-Veg,Pork,50,Hard
+Vegetable Lo Mein,Chinese,Veg,Noodles,20,Easy
+Scallion Pancakes,Chinese,Veg,Flour,30,Medium
+Dan Dan Noodles,Chinese,Non-Veg,Pork,30,Medium
+Fried Wontons,Chinese,Non-Veg,Pork,30,Medium
+Lemon Chicken,Chinese,Non-Veg,Chicken,30,Medium
+Kung Pao Shrimp,Chinese,Non-Veg,Shrimp,25,Medium
+Honey Garlic Chicken,Chinese,Non-Veg,Chicken,25,Easy
+Mongolian Beef,Chinese,Non-Veg,Beef,25,Medium
+Char Siu Pork,Chinese,Non-Veg,Pork,60,Hard
+Egg Foo Young,Chinese,Veg,Egg,20,Easy
+Crab Rangoon,Chinese,Non-Veg,Crab,25,Easy
+Hot and Sour Noodles,Chinese,Veg,Noodles,20,Easy
+Steamed Fish,Chinese,Non-Veg,Fish,20,Medium
+Garlic Broccoli,Chinese,Veg,Broccoli,15,Easy
+Sesame Chicken,Chinese,Non-Veg,Chicken,30,Medium
+Sweet and Sour Fish,Chinese,Non-Veg,Fish,30,Medium
+Pork Buns,Chinese,Non-Veg,Pork,90,Hard
+Shrimp Fried Rice,Chinese,Non-Veg,Shrimp,20,Easy
+Chicken Lettuce Wraps,Chinese,Non-Veg,Chicken,20,Easy
+Shanghai Fried Noodles,Chinese,Veg,Noodles,20,Easy
+Twice Cooked Pork,Chinese,Non-Veg,Pork,40,Hard
+Beijing Beef,Chinese,Non-Veg,Beef,30,Medium
+San Choy Bow,Chinese,Non-Veg,Pork,20,Easy
+Pad Thai,Thai,Non-Veg,Noodles,25,Medium
+Green Curry Chicken,Thai,Non-Veg,Chicken,30,Medium
+Red Curry Chicken,Thai,Non-Veg,Chicken,30,Medium
+Tom Yum Soup,Thai,Non-Veg,Shrimp,25,Easy
+Massaman Curry Beef,Thai,Non-Veg,Beef,50,Hard
+Pineapple Fried Rice,Thai,Veg,Rice,20,Easy
+Pad See Ew,Thai,Non-Veg,Noodles,20,Easy
+Tom Kha Gai,Thai,Non-Veg,Chicken,25,Easy
+Basil Chicken,Thai,Non-Veg,Chicken,20,Easy
+Thai Fish Cakes,Thai,Non-Veg,Fish,30,Medium
+Som Tum Papaya Salad,Thai,Veg,Papaya,15,Easy
+Yellow Curry Chicken,Thai,Non-Veg,Chicken,30,Medium
+Panang Curry Chicken,Thai,Non-Veg,Chicken,30,Medium
+Crab Fried Rice,Thai,Non-Veg,Crab,20,Easy
+Thai Spring Rolls,Thai,Veg,Mixed Vegetables,30,Medium
+Chicken Satay,Thai,Non-Veg,Chicken,35,Medium
+Beef Salad Yam Nua,Thai,Non-Veg,Beef,25,Easy
+Garlic Pepper Shrimp,Thai,Non-Veg,Shrimp,20,Easy
+Drunken Noodles,Thai,Non-Veg,Noodles,20,Easy
+Thai Coconut Soup,Thai,Veg,Tofu,20,Easy
+Sweet and Sour Thai Chicken,Thai,Non-Veg,Chicken,25,Easy
+Pumpkin Curry,Thai,Veg,Pumpkin,30,Medium
+Cashew Chicken,Thai,Non-Veg,Chicken,25,Easy
+Spicy Basil Beef,Thai,Non-Veg,Beef,20,Easy
+Thai Omelet,Thai,Veg,Egg,15,Easy
+Massaman Beef,Thai,Non-Veg,Beef,60,Hard
+Green Papaya Salad,Thai,Veg,Papaya,15,Easy
+Steamed Thai Mussels,Thai,Non-Veg,Mussels,20,Easy
+Basil Eggplant,Thai,Veg,Eggplant,20,Easy
+Red Curry Duck,Thai,Non-Veg,Duck,45,Hard
+Glass Noodles Salad,Thai,Veg,Noodles,20,Easy
+Spicy Pork Ribs,Thai,Non-Veg,Pork,60,Hard
+Tom Yum Goong,Thai,Non-Veg,Shrimp,25,Easy
+Massaman Tofu,Thai,Veg,Tofu,30,Medium
+Coconut Shrimp Curry,Thai,Non-Veg,Shrimp,30,Medium
+Panang Tofu,Thai,Veg,Tofu,25,Easy
+Spicy Basil Tofu,Thai,Veg,Tofu,20,Easy
+Pad Woon Sen,Thai,Veg,Noodles,20,Easy
+Thai Red Curry Vegetables,Thai,Veg,Mixed Vegetables,25,Easy
+Massaman Vegetable Curry,Thai,Veg,Mixed Vegetables,35,Medium

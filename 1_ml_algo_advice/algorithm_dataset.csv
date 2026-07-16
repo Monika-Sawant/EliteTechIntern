@@ -1,0 +1,201 @@
+DataType,ProblemType,DatasetSize,Explainability,Speed,Algorithm
+Tabular,Classification,Small,Yes,Yes,Decision Tree
+Tabular,Classification,Small,Yes,No,Decision Tree
+Tabular,Classification,Small,No,Yes,Random Forest
+Tabular,Classification,Small,No,No,Random Forest
+Tabular,Classification,Medium,Yes,Yes,Random Forest
+Tabular,Classification,Medium,Yes,No,Random Forest
+Tabular,Classification,Medium,No,Yes,XGBoost
+Tabular,Classification,Medium,No,No,XGBoost
+Tabular,Classification,Large,Yes,Yes,LightGBM
+Tabular,Classification,Large,Yes,No,LightGBM
+Tabular,Classification,Large,No,Yes,XGBoost
+Tabular,Classification,Large,No,No,XGBoost
+Tabular,Regression,Small,Yes,Yes,Linear Regression
+Tabular,Regression,Small,Yes,No,Linear Regression
+Tabular,Regression,Small,No,Yes,Random Forest
+Tabular,Regression,Small,No,No,Random Forest
+Tabular,Regression,Medium,Yes,Yes,Ridge Regression
+Tabular,Regression,Medium,Yes,No,Ridge Regression
+Tabular,Regression,Medium,No,Yes,XGBoost
+Tabular,Regression,Medium,No,No,XGBoost
+Tabular,Regression,Large,Yes,Yes,LightGBM
+Tabular,Regression,Large,Yes,No,LightGBM
+Tabular,Regression,Large,No,Yes,XGBoost
+Tabular,Regression,Large,No,No,XGBoost
+Image,Classification,Small,Yes,Yes,CNN
+Image,Classification,Small,Yes,No,CNN
+Image,Classification,Small,No,Yes,CNN
+Image,Classification,Small,No,No,CNN
+Image,Classification,Medium,Yes,Yes,CNN
+Image,Classification,Medium,Yes,No,CNN
+Image,Classification,Medium,No,Yes,CNN
+Image,Classification,Medium,No,No,CNN
+Image,Classification,Large,Yes,Yes,ResNet
+Image,Classification,Large,Yes,No,ResNet
+Image,Classification,Large,No,Yes,ResNet
+Image,Classification,Large,No,No,ResNet
+Image,Regression,Small,Yes,Yes,CNN
+Image,Regression,Small,Yes,No,CNN
+Image,Regression,Small,No,Yes,CNN
+Image,Regression,Small,No,No,CNN
+Image,Regression,Medium,Yes,Yes,CNN
+Image,Regression,Medium,Yes,No,CNN
+Image,Regression,Medium,No,Yes,CNN
+Image,Regression,Medium,No,No,CNN
+Image,Regression,Large,Yes,Yes,ResNet
+Image,Regression,Large,Yes,No,ResNet
+Image,Regression,Large,No,Yes,ResNet
+Image,Regression,Large,No,No,ResNet
+Text,Classification,Small,Yes,Yes,Naive Bayes
+Text,Classification,Small,Yes,No,Naive Bayes
+Text,Classification,Small,No,Yes,Naive Bayes
+Text,Classification,Small,No,No,Naive Bayes
+Text,Classification,Medium,Yes,Yes,SVM
+Text,Classification,Medium,Yes,No,SVM
+Text,Classification,Medium,No,Yes,SVM
+Text,Classification,Medium,No,No,SVM
+Text,Classification,Large,Yes,Yes,BERT
+Text,Classification,Large,Yes,No,BERT
+Text,Classification,Large,No,Yes,BERT
+Text,Classification,Large,No,No,BERT
+Text,Regression,Small,Yes,Yes,Linear Regression
+Text,Regression,Small,Yes,No,Linear Regression
+Text,Regression,Small,No,Yes,Linear Regression
+Text,Regression,Small,No,No,Linear Regression
+Text,Regression,Medium,Yes,Yes,Ridge Regression
+Text,Regression,Medium,Yes,No,Ridge Regression
+Text,Regression,Medium,No,Yes,Ridge Regression
+Text,Regression,Medium,No,No,Ridge Regression
+Text,Regression,Large,Yes,Yes,XGBoost
+Text,Regression,Large,Yes,No,XGBoost
+Text,Regression,Large,No,Yes,XGBoost
+Text,Regression,Large,No,No,XGBoost
+Audio,Classification,Small,Yes,Yes,CNN
+Audio,Classification,Small,Yes,No,CNN
+Audio,Classification,Small,No,Yes,CNN
+Audio,Classification,Small,No,No,CNN
+Audio,Classification,Medium,Yes,Yes,CNN
+Audio,Classification,Medium,Yes,No,CNN
+Audio,Classification,Medium,No,Yes,CNN
+Audio,Classification,Medium,No,No,CNN
+Audio,Classification,Large,Yes,Yes,Transformer
+Audio,Classification,Large,Yes,No,Transformer
+Audio,Classification,Large,No,Yes,Transformer
+Audio,Classification,Large,No,No,Transformer
+Audio,Regression,Small,Yes,Yes,LSTM
+Audio,Regression,Small,Yes,No,LSTM
+Audio,Regression,Small,No,Yes,LSTM
+Audio,Regression,Small,No,No,LSTM
+Audio,Regression,Medium,Yes,Yes,LSTM
+Audio,Regression,Medium,Yes,No,LSTM
+Audio,Regression,Medium,No,Yes,LSTM
+Audio,Regression,Medium,No,No,LSTM
+Audio,Regression,Large,Yes,Yes,LSTM
+Audio,Regression,Large,Yes,No,LSTM
+Audio,Regression,Large,No,Yes,LSTM
+Audio,Regression,Large,No,No,LSTM
+Time Series,Classification,Small,Yes,Yes,ARIMA
+Time Series,Classification,Small,Yes,No,ARIMA
+Time Series,Classification,Small,No,Yes,ARIMA
+Time Series,Classification,Small,No,No,ARIMA
+Time Series,Classification,Medium,Yes,Yes,LSTM
+Time Series,Classification,Medium,Yes,No,LSTM
+Time Series,Classification,Medium,No,Yes,LSTM
+Time Series,Classification,Medium,No,No,LSTM
+Time Series,Classification,Large,Yes,Yes,LSTM
+Time Series,Classification,Large,Yes,No,LSTM
+Time Series,Classification,Large,No,Yes,LSTM
+Time Series,Classification,Large,No,No,LSTM
+Time Series,Regression,Small,Yes,Yes,ARIMA
+Time Series,Regression,Small,Yes,No,ARIMA
+Time Series,Regression,Small,No,Yes,ARIMA
+Time Series,Regression,Small,No,No,ARIMA
+Time Series,Regression,Medium,Yes,Yes,LSTM
+Time Series,Regression,Medium,Yes,No,LSTM
+Time Series,Regression,Medium,No,Yes,LSTM
+Time Series,Regression,Medium,No,No,LSTM
+Time Series,Regression,Large,Yes,Yes,LSTM
+Time Series,Regression,Large,Yes,No,LSTM
+Time Series,Regression,Large,No,Yes,LSTM
+Time Series,Regression,Large,No,No,LSTM
+Tabular,Classification,Small,Yes,Yes,Decision Tree
+Tabular,Classification,Small,Yes,No,Decision Tree
+Tabular,Classification,Small,No,Yes,Random Forest
+Tabular,Classification,Small,No,No,Random Forest
+Tabular,Classification,Medium,Yes,Yes,Random Forest
+Tabular,Classification,Medium,Yes,No,Random Forest
+Tabular,Classification,Medium,No,Yes,XGBoost
+Tabular,Classification,Medium,No,No,XGBoost
+Tabular,Classification,Large,Yes,Yes,LightGBM
+Tabular,Classification,Large,Yes,No,LightGBM
+Tabular,Classification,Large,No,Yes,XGBoost
+Tabular,Classification,Large,No,No,XGBoost
+Tabular,Regression,Small,Yes,Yes,Linear Regression
+Tabular,Regression,Small,Yes,No,Linear Regression
+Tabular,Regression,Small,No,Yes,Random Forest
+Tabular,Regression,Small,No,No,Random Forest
+Tabular,Regression,Medium,Yes,Yes,Ridge Regression
+Tabular,Regression,Medium,Yes,No,Ridge Regression
+Tabular,Regression,Medium,No,Yes,XGBoost
+Tabular,Regression,Medium,No,No,XGBoost
+Tabular,Regression,Large,Yes,Yes,LightGBM
+Tabular,Regression,Large,Yes,No,LightGBM
+Tabular,Regression,Large,No,Yes,XGBoost
+Tabular,Regression,Large,No,No,XGBoost
+Image,Classification,Small,Yes,Yes,CNN
+Image,Classification,Small,Yes,No,CNN
+Image,Classification,Small,No,Yes,CNN
+Image,Classification,Small,No,No,CNN
+Image,Classification,Medium,Yes,Yes,CNN
+Image,Classification,Medium,Yes,No,CNN
+Image,Classification,Medium,No,Yes,CNN
+Image,Classification,Medium,No,No,CNN
+Image,Classification,Large,Yes,Yes,ResNet
+Image,Classification,Large,Yes,No,ResNet
+Image,Classification,Large,No,Yes,ResNet
+Image,Classification,Large,No,No,ResNet
+Image,Regression,Small,Yes,Yes,CNN
+Image,Regression,Small,Yes,No,CNN
+Image,Regression,Small,No,Yes,CNN
+Image,Regression,Small,No,No,CNN
+Image,Regression,Medium,Yes,Yes,CNN
+Image,Regression,Medium,Yes,No,CNN
+Image,Regression,Medium,No,Yes,CNN
+Image,Regression,Medium,No,No,CNN
+Image,Regression,Large,Yes,Yes,ResNet
+Image,Regression,Large,Yes,No,ResNet
+Image,Regression,Large,No,Yes,ResNet
+Image,Regression,Large,No,No,ResNet
+Text,Classification,Small,Yes,Yes,Naive Bayes
+Text,Classification,Small,Yes,No,Naive Bayes
+Text,Classification,Small,No,Yes,Naive Bayes
+Text,Classification,Small,No,No,Naive Bayes
+Text,Classification,Medium,Yes,Yes,SVM
+Text,Classification,Medium,Yes,No,SVM
+Text,Classification,Medium,No,Yes,SVM
+Text,Classification,Medium,No,No,SVM
+Text,Classification,Large,Yes,Yes,BERT
+Text,Classification,Large,Yes,No,BERT
+Text,Classification,Large,No,Yes,BERT
+Text,Classification,Large,No,No,BERT
+Text,Regression,Small,Yes,Yes,Linear Regression
+Text,Regression,Small,Yes,No,Linear Regression
+Text,Regression,Small,No,Yes,Linear Regression
+Text,Regression,Small,No,No,Linear Regression
+Text,Regression,Medium,Yes,Yes,Ridge Regression
+Text,Regression,Medium,Yes,No,Ridge Regression
+Text,Regression,Medium,No,Yes,Ridge Regression
+Text,Regression,Medium,No,No,Ridge Regression
+Text,Regression,Large,Yes,Yes,XGBoost
+Text,Regression,Large,Yes,No,XGBoost
+Text,Regression,Large,No,Yes,XGBoost
+Text,Regression,Large,No,No,XGBoost
+Audio,Classification,Small,Yes,Yes,CNN
+Audio,Classification,Small,Yes,No,CNN
+Audio,Classification,Small,No,Yes,CNN
+Audio,Classification,Small,No,No,CNN
+Audio,Classification,Medium,Yes,Yes,CNN
+Audio,Classification,Medium,Yes,No,CNN
+Audio,Classification,Medium,No,Yes,CNN
+Audio,Classification,Medium,No,No,CNN
